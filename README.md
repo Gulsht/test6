@@ -1,1 +1,1 @@
-# Super projecst about Pull Requeqsts
+# Super project about Pull Requests
